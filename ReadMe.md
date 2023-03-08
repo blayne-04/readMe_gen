@@ -32,3 +32,6 @@ N/A
 [Github Profile](https://github.com/blayne-04)
 
 If you can't find the answer to your questions on my github profile feel free to contact me at befuller2004@gmail.com
+
+## Tutorial
+[Tutorial Video](https://drive.google.com/file/d/1oh7VRA3jn2ZLMMCevLSAJ5Hf-e3pLnqS/view)
