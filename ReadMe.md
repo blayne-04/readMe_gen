@@ -34,4 +34,4 @@ N/A
 If you can't find the answer to your questions on my github profile feel free to contact me at befuller2004@gmail.com
 
 ## Tutorial
-[Tutorial Video](https://drive.google.com/file/d/1oh7VRA3jn2ZLMMCevLSAJ5Hf-e3pLnqS/view)
+[ReadMe Generator Tutorial](https://user-images.githubusercontent.com/107909315/223631975-dc31a7c5-10d0-47f5-b6f0-a3100add7bc1.webm)
